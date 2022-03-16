@@ -39,7 +39,7 @@ mvn clean package
 Run the project.
 
 ```bash
-java -jar target/bookTrading-1.0-SNAPSHOT-jar-with-dependencies.jar -gui
+java -jar target/jade-boot-trading-1.0-SNAPSHOT-jar-with-dependencies.jar -gui
 ```
 
   
